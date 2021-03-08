@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/unova_pokdex/static/css/main.9d5b29c0.chunk.css",
+    "main.js": "/unova_pokdex/static/js/main.aa8125de.chunk.js",
+    "main.js.map": "/unova_pokdex/static/js/main.aa8125de.chunk.js.map",
+    "runtime-main.js": "/unova_pokdex/static/js/runtime-main.b1f50dd5.js",
+    "runtime-main.js.map": "/unova_pokdex/static/js/runtime-main.b1f50dd5.js.map",
+    "static/js/2.721e08f2.chunk.js": "/unova_pokdex/static/js/2.721e08f2.chunk.js",
+    "static/js/2.721e08f2.chunk.js.map": "/unova_pokdex/static/js/2.721e08f2.chunk.js.map",
+    "static/js/3.9730a8ce.chunk.js": "/unova_pokdex/static/js/3.9730a8ce.chunk.js",
+    "static/js/3.9730a8ce.chunk.js.map": "/unova_pokdex/static/js/3.9730a8ce.chunk.js.map",
+    "index.html": "/unova_pokdex/index.html",
+    "static/css/main.9d5b29c0.chunk.css.map": "/unova_pokdex/static/css/main.9d5b29c0.chunk.css.map",
+    "static/js/2.721e08f2.chunk.js.LICENSE.txt": "/unova_pokdex/static/js/2.721e08f2.chunk.js.LICENSE.txt",
+    "static/media/logo.6ce24c58.svg": "/unova_pokdex/static/media/logo.6ce24c58.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b1f50dd5.js",
+    "static/js/2.721e08f2.chunk.js",
+    "static/css/main.9d5b29c0.chunk.css",
+    "static/js/main.aa8125de.chunk.js"
+  ]
+}
