@@ -2,7 +2,7 @@
   "name": "unova_pokedex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://YjangWynter.github.io/unova_pokdex",
+  "homepage": "http://YjangWynter.github.io/unova_pokdex/public/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
